@@ -1,0 +1,6 @@
+#!/bin/bash
+git config color.ui true
+echo "[*] git console color.. configured"
+git config format.pretty oneline
+echo "[*] git log............ configured"
+
